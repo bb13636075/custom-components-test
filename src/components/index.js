@@ -1,0 +1,1 @@
+export {default as TagsComp} from './Tags';
